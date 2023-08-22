@@ -1,4 +1,7 @@
 export { default as Action } from './Action'
 export { default as Add } from './Add'
+export { default as Archive } from './Archive'
+export { default as IssueSquareFilled } from './IssueSquareFilled'
 export { default as Todo } from './Todo'
+export { default as Unarchive } from './Unarchive'
 export { default as ZoomOut } from './ZoomOut'
